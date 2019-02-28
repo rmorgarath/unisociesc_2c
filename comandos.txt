@@ -1,2 +1,6 @@
 git remote add origin "URL" - Adicionar origin
 git remote -v - verificar qual URL apontada
+fadfsdfdsfsd
+
+
+sdfsdfsdfd
